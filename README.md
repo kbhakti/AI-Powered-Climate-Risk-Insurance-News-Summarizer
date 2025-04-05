@@ -58,7 +58,6 @@ venv\Scripts\activate
 - [LangChain](https://www.langchain.com/)
 - [OpenAI GPT Models](https://platform.openai.com/)
 - [Hugging Face Transformers](https://huggingface.co/)
-- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
 - [Tavily](https://app.tavily.com)
 - [GoogleNewsAPI](https://newsapi.org/s/google-news-api)
 
