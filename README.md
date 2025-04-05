@@ -18,7 +18,7 @@ This project is a Streamlit-based GenAI application that:
 1. **Clone the Repository**
    ```bash
    git clone <this_repo_url>
-   cd ai_news_summarizer
+   cd <Project Folder Name>
    ```
 
 2. **Install Dependencies**
