@@ -17,8 +17,8 @@ This project is a Streamlit-based GenAI application that:
 
 1. **Clone the Repository**
    ```bash
-   git clone <your_repo_url>
-   cd ai_news_summarizer
+   git clone <this_repo_url>
+   cd <Project Folder Name>
    ```
 
 2. **Install Dependencies**
@@ -58,7 +58,6 @@ venv\Scripts\activate
 - [LangChain](https://www.langchain.com/)
 - [OpenAI GPT Models](https://platform.openai.com/)
 - [Hugging Face Transformers](https://huggingface.co/)
-- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
 - [Tavily](https://app.tavily.com)
 - [GoogleNewsAPI](https://newsapi.org/s/google-news-api)
 

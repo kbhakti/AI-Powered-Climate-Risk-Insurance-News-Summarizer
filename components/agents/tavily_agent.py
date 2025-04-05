@@ -3,7 +3,7 @@ from langchain_community.tools.tavily_search import TavilySearchResults
 async def fetch_tavily_news(topic):
     try:
         tool = TavilySearchResults(
-        tavily_api_key="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",
+        tavily_api_key="BV0rt",
         max_results=100,
         search_depth='advanced',
         include_answer=True,
